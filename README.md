@@ -11,7 +11,7 @@ Days 1–15 are completed in PyCharm with the JetBrains Academy course project. 
 
 ## How notes are organized
 
-Each day is a Markdown file named after the lesson, for example `Day 1.md`.
+Notes are grouped by course level. Beginner lessons (Days 1–15) live in `Beginner/`. Each day is a Markdown file named after the lesson, for example `Beginner/Day 1.md`.
 
 Typical structure:
 
